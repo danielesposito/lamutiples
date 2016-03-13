@@ -4,7 +4,7 @@
 //
 //  Created by Daniel Esposito on 3/13/16.
 //  Copyright © 2016 Daniel Esposito. All rights reserved.
-//
+//  Some Logo vector designed by Freepik. freepik.com
 
 import UIKit
 
